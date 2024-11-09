@@ -1,0 +1,15 @@
+Reporting-MTA: dns; mr85p00im-ztdg06011801.me.com
+X-Postfix-Queue-ID: EA20FAC5A54
+X-Postfix-Sender: rfc822; wm.21416@icloud.com
+Arrival-Date: Fri,  8 Nov 2024 16:19:07 +0000 (UTC)
+
+Final-Recipient: rfc822; ************@******
+Original-Recipient: rfc822;wm.21416@icloud.com
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; mxs.mail.ru
+Diagnostic-Code: smtp; 550 spam message rejected. Please visit
+    http://help.mail.ru/notspam-support/id?c=AjPfkJYPnQAOUgoLzy6tn3jn58E_ou-9IYLt2mZu8b0UAAAAw8UBAMwCJhE~
+    or  report details to abuse@corp.mail.ru. Error code:
+    90DF3302009D0F960B0A520E9FAD2ECFC1E7E778BDEFA23FDAED8221BDF16E66. ID:
+    000000140001C5C3112602CC.
